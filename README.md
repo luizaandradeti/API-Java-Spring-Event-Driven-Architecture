@@ -49,3 +49,4 @@ Read More:
 - https://www.confluent.io/resources/ebook/designing-event-driven-systems
 - https://aws.amazon.com/pt/what-is/eda/
 - https://www.sap.com/brazil/products/technology-platform/what-is-event-driven-architecture.html
+- https://learn.microsoft.com/en-us/azure/architecture/guide/architecture-styles/event-driven
