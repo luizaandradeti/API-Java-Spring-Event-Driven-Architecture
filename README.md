@@ -29,14 +29,14 @@ zookeeper  | uid=1000(appuser) gid=1000(appuser) groups=1000(appuser)
 zookeeper  | ===> Configuring ...
 kafka      | ===> User
 ```
-![logs.png](logs.png)
+![logs.png](imgs/logs.png)
 ````bash
 curl --location 'http://localhost:5000/api/v1/msgs?key=1' \
 --header 'Content-Type: text/plain' \
 --data 'Hey, welcome!'
 ````
-![resultado_local.png](resultado_local.png)
-![resultado_local_loopback.png](resultado_local_loopback.png)
+![resultado_local.png](imgs/resultado_local.png)
+![resultado_local_loopback.png](imgs/resultado_local_loopback.png)
 
 > [!NOTE]
 >
