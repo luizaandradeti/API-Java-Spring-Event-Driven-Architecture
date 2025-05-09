@@ -43,3 +43,9 @@ curl --location 'http://localhost:5000/api/v1/msgs?key=1' \
 > Este reposito possui fins de estudos em contexto técnicos, não possui cunho político, seu foco está estritamente relacionad na área de engenharia de software, com arquitetura voltada a eventos, em comunicação entre microsserviços; 
 >
 > Repositorio "On premise" (pc local) sem implantação em contas cloud. 
+
+
+Read More:
+- https://www.confluent.io/resources/ebook/designing-event-driven-systems
+- https://aws.amazon.com/pt/what-is/eda/
+- https://www.sap.com/brazil/products/technology-platform/what-is-event-driven-architecture.html
