@@ -1,4 +1,4 @@
-"# Sample-Spring-Broker" 
+"# Sample-Spring-Cluster-On-Premise" 
 
 https://spring.io/projects/
 
