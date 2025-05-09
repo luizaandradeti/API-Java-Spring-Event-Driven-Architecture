@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: producer
+  kafka:
+    bootstrap-servers: cluster:9092
+    producer:
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.ByteArraySerializer
+server:
+  port: 8081
+  address: 0.0.0.0
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"

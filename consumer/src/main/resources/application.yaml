@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: consumer
+  kafka:
+    bootstrap-servers: cluster:9092
+    consumer:
+      group-id: kafka-group
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.apache.kafka.common.serialization.ByteArrayDeserializer
+      auto-offset-reset: earliest
+  port: 8082
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
