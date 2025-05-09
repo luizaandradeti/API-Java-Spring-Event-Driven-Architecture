@@ -40,5 +40,6 @@ curl --location 'http://localhost:5000/api/v1/msgs?key=1' \
 
 > [!NOTE]
 >
-> Repositorio com fins de estudos em contexto técnicos, estritamente na área de engenharia de software.
-
+> Este reposito possui fins de estudos em contexto técnicos, estritamente na área de engenharia de software, com arquitetura voltada a eventos; 
+>
+> Repositorio "On premise" (pc local) sem implantação em contas cloud. 
