@@ -1,5 +1,7 @@
 "# Sample-Spring-Cluster-On-Premise" 
 
+[![My Skills](https://skillicons.dev/icons?i=kafka,java&perline=3)](https://skillicons.dev)
+
 https://spring.io/projects/
 
 https://www.confluent.io/
